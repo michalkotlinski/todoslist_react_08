@@ -11,6 +11,8 @@ JavaScript;
 React;
 JSX
 
+[GitHub repository:](https://github.com/michalkotlinski/todolist_react) - not build yet!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
