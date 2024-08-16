@@ -10,6 +10,7 @@ BEM;
 JavaScript;
 React;
 JSX
+[GitHub repository:](https://github.com/michalkotlinski/todolist_react) - not build yet!
 
 [GitHub repository:](https://github.com/michalkotlinski/todolist_react) - not build yet!
 
