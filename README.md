@@ -1,6 +1,7 @@
 # Task list
 --------------------------------------------------------------------------------------------------------------------------------------------------
 This is the project of mine developed in React.js. Simple to-do list application without any interactivity or functionality to add, edit, or remove tasks yet. Soon it will be completed.
+
 ![demo](./assets/todo_screen1.png)
 The technologies used are:
 
