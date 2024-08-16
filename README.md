@@ -1,3 +1,16 @@
+# Task list
+--------------------------------------------------------------------------------------------------------------------------------------------------
+This is the project of mine developed in React.js. Simple to-do list application without any interactivity or functionality to add, edit, or remove tasks yet. Soon it will be completed.
+![demo](assets\todo_screen1.png)
+The technologies used are:
+
+HTML;
+CSS;
+BEM;
+JavaScript;
+React;
+JSX
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
