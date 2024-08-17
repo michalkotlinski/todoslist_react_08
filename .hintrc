@@ -3,6 +3,15 @@
     "development"
   ],
   "hints": {
-    "compat-api/html": "off"
+    "compat-api/html": "off",
+    "apple-touch-icons": "off",
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "overflow-wrap: anywhere"
+        ]
+      }
+    ]
   }
 }
