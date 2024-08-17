@@ -1,7 +1,7 @@
 .buttons {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start; /* Wyrównanie do lewej */
+    justify-content: flex-end; /* Wyrównanie do lewej */
 }
 
 .buttons__button {
