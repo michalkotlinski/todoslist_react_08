@@ -1,7 +1,7 @@
 .buttons {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-end;
+    justify-content: flex-start; /* Wyrównanie do lewej */
 }
 
 .buttons__button {
@@ -14,9 +14,14 @@
 }
 
 @media (max-width:767px) {
+    .buttons {
+        flex-direction: column; /* Ustawienie przycisków w kolumnie na mniejszych ekranach */
+        align-items: flex-end; /* Wyrównanie do lewej na mniejszych ekranach */
+    }
+
     .buttons__button {
         flex-basis: 100%;
-        margin: 10px;
+        margin: 10px 0;
     }
 }
 
