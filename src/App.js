@@ -9,7 +9,7 @@ import Container from "./Container";
 const tasks = [
     { id: 1, content: "przejść na reacta", done: false },
     { id: 2, content: "wyjść na spacer z psem", done: true },
-    { id: 3, content: "dużo pływać", done: true},
+    { id: 3, content: "dużo pływać", done: false},
 ];
 const hideDoneTasks = false;
 
