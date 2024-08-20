@@ -1,15 +1,17 @@
 {
   "name": "todolist_react",
   "version": "1.0.0",
-  "main": "https://michalkotlinski.github.io/todoslist_react_08/public/index.html",
+  "homepage": "https://michalkotlinski.github.io/todoslist_react_08/",
+  "main": "index.js",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "eslint-plugin-react": "^7.35.0",
-    "gh-pages": "^6.1.1",
     "joi": "^17.13.3",
+    "nth-check": "^2.1.1",
+    "postcss": "^8.4.41",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "^3.0.1",
@@ -21,8 +23,8 @@
     "webpack-dev-server": "^5.0.4"
   },
   "scripts": {
-    "start": "webpack serve --mode development --open",
-    "build": "webpack - mode production",
+    "start": "react-scripts start",
+    "build": "webpack --mode production",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build",
@@ -50,6 +52,9 @@
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.3",
     "@babel/preset-react": "^7.24.7",
-    "babel-loader": "^9.1.3"
+    "babel-loader": "^9.1.3",
+    "css-loader": "^7.1.2",
+    "gh-pages": "^6.1.1",
+    "style-loader": "^4.0.0"
   }
 }
