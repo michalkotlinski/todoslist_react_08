@@ -1,8 +1,8 @@
 {
   "name": "todolist_react",
   "version": "1.0.0",
-  "homepage": "https://michalkotlinski.github.io/todoslist_react_08/",
   "main": "index.js",
+  "homepage": "https://michalkotlinski.github.io/todoslist_react_08/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -14,7 +14,7 @@
     "postcss": "^8.4.41",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "save-dev": "^0.0.1-security",
     "todolist_react": "file:",
     "web-vitals": "^2.1.4",
