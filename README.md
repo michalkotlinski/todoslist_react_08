@@ -13,7 +13,7 @@ JavaScript;
 React;
 JSX
 
-[GitHub repository:](https://github.com/michalkotlinski/todolist_react) - not built yet!
+[GitHub repository:](https://github.com/michalkotlinski/todolist_react)
 
 # Getting Started with Create React App
 
