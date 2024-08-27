@@ -2,7 +2,7 @@
   "name": "todolist_react",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://michalkotlinski.github.io/todoslist_react_08/",
+  "homepage": "https://michalkotlinski.github.io/todoslist_react_08_gh-pages/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.17.0",
